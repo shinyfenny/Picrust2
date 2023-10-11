@@ -1,7 +1,7 @@
 # Picrust2
 16s数据的功能预测
-https://github.com/picrust/picrust2/wiki/Metagenome-prediction
-安装miniconda
+https://github.com/picrust/picrust2/wiki/Metagenome-prediction  
+安装miniconda  
 mkdir -p ~/miniconda3 # 这个命令创建一个名为 miniconda3 的目录（文件夹）在你的用户主目录 (~) 下。这将用于存储 Miniconda 安装
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
 bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
